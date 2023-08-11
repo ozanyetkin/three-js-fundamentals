@@ -7,3 +7,7 @@
 2. Run npx vite
 
 ```npx vite```
+
+3. Select a scene from examples and observe it live!
+
+https://threejs.org/examples/
